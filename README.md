@@ -63,7 +63,7 @@ The dark ink palette and warm living room photography create an intimate, galler
 - Figma Color and Text Styles
 
 ## Figma Design:
-[PicknBuy — Luxury Furniture E-commerce Landing Page.fig](https://www.figma.com/design/O2cT3RT8Qct8C3pTKnNlCV/PicknBuy-%E2%80%94-Luxury-Furniture-E-commerce-Landing-Page?node-id=0-1&p=f&t=Eyt2w6FDEeaYYG9H-0)
+[PicknBuy — Luxury Furniture E-commerce Landing Page.fig](https://www.figma.com/proto/O2cT3RT8Qct8C3pTKnNlCV/PicknBuy-%E2%80%94-Luxury-Furniture-E-commerce-Landing-Page?node-id=3-2&t=XX0fFlNAZa0xBjRq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ## Design Preview:
 
